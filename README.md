@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ミズチ</h1>
+<h1 align="center">こんにちは私は, ミズチ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miz-uchi&label=Profile%20views&color=0e75b6&style=flat" alt="miz-uchi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miz-uchi" alt="miz-uchi" /></a> </p>
