@@ -1,6 +1,6 @@
 
 <h1 align="center">こんにちは私は, ミズチ</h1>
-<img align="right" alt="Coding" width="1000" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp">
+<img align="right" alt="Coding" width="1000" src="https://media1.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif?cid=ecf05e47ceemzaci0r3iuxnlxh0fbesx3h9jqpszqrfqzk6q&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miz-uchi&label=Profile%20views&color=0e75b6&style=flat" alt="miz-uchi" /> </p>
 
 
