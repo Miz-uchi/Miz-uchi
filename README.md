@@ -12,7 +12,6 @@
 <a href="https://discord.gg/_ミズチ_#1130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_ミズチ_#1130" height="30" width="40" /></a>
 </p>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miz-uchi" alt="miz-uchi" /></a> </p>
 
 
