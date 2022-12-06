@@ -14,7 +14,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miz-uchi" alt="miz-uchi" /></a> </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miz-uchi&show_icons=true&locale=en" alt="miz-uchi" /></p>
 
 
