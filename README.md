@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miz-uchi&label=Profile%20views&color=0e75b6&style=flat" alt="miz-uchi" /> </p>
 
-
 <h3 align="left">Connect with me via =</h3>
 <p align="left">
 <a href="https://discord.gg/_ミズチ_#1130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_ミズチ_#1130" height="30" width="40" /></a>
