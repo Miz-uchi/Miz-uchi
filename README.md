@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="1000" src="https://media3.giphy.com/media/3o6fJdYXEvMa5ZmlI4/200w.webp?cid=ecf05e47wzi6cpons7y2qgr1kp4q9qj097ydj1xirnwzrkkl&rid=200w.webp&ct=g">
 
-<img align="right" alt="Coding" width="1000" src="https://media4.giphy.com/media/l41JZRvs2RsZ0cGbK/200w.webp?cid=ecf05e47g1h2oe9ccsjxb9qdfrqwywz98g70nilngaedkhl7&rid=200w.webp&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miz-uchi&label=Profile%20views&color=0e75b6&style=flat" alt="miz-uchi" /> </p>
 
 <h3 align="left">Connect with me via =</h3>
